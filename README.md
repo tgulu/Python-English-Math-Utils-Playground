@@ -1,4 +1,4 @@
-# Python-Practise-Tasks
+# Python-English & Math-Utils-Playground
 
 Program 1: square roots
 
