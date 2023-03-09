@@ -27,7 +27,8 @@ Both classes have an is_inside function that takes two input parameters, x and y
 The functions use the distance formula between two points to determine whether the given point is inside the shape or not. 
 The program does not include any sample inputs or tests.
 
-Program 5: 2D geometric shapes
+Program 5: classes - 2D geometric shapes
+
 This program is a collection of classes that represent 2D geometric shapes, including Point, Segment, Circle, and Rectangle.
 Each class contains methods to move and scale the shapes. Additionally, there is a Group class that is a collection of shapes 
 and has methods to move all the shapes in the collection by the same vector and scale them by the same factor.
